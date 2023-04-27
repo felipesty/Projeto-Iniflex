@@ -1,5 +1,5 @@
 # Projeto Iniflex
-Nesse projeto foi considerado uma empresa que possui uma lista de funcionários, e assim deveria ser realizado a manipulção dessa lista de algumas formas.
+Nesse projeto foi considerado uma empresa que possui uma lista de funcionários, e assim deveria ser realizado a manipulação dessa lista de algumas formas.
 
 Sendo elas:
    - Inserir todos os funcionários, na mesma ordem e informações de uma determinada tabela.
